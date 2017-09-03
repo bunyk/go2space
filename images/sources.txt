@@ -1,0 +1,5 @@
+crab_nebula.jpg https://en.wikipedia.org/wiki/File:Crab_Nebula.jpg
+mira.jpg https://en.wikipedia.org/wiki/File:Mira_1997.jpg
+galaxy.jpg https://en.wikipedia.org/wiki/File:NGC_4414_(NASA-med).jpg
+trappist1.jpg https://commons.wikimedia.org/wiki/File:Artist%27s_view_of_planets_transiting_red_dwarf_star_in_TRAPPIST-1_system.jpg
+fomalhaut.jpg https://commons.wikimedia.org/wiki/File:Fomalhaut_B.jpg
